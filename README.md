@@ -1,3 +1,8 @@
+## FinAnalyst - Financial Due Diligence & DCF Valuation
+
+For this project, I have built an application with user authentication which fetches data from the Financial Modeling Prep (FMP) API. Using this data, it enables the user to perform a stock screening and DCF Valuation. The DCF page includes standard assumptions, which the user can change with respect to the specific company. 
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
